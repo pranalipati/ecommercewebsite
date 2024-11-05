@@ -149,7 +149,7 @@ export default function Layout({ title, description, children }) {
               </IconButton>
               <NextLink href="/" passHref>
                 <Link>
-                  <Typography sx={classes.brand}>amazona</Typography>
+                  <Typography sx={classes.brand}>EcommerceWeb</Typography>
                 </Link>
               </NextLink>
             </Box>
@@ -277,7 +277,7 @@ export default function Layout({ title, description, children }) {
           {children}
         </Container>
         <Box component="footer" sx={classes.footer}>
-          <Typography>All rights reserved. Sanity Amazona.</Typography>
+          <Typography>All rights reserved.</Typography>
         </Box>
       </ThemeProvider>
     </>
