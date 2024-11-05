@@ -106,3 +106,13 @@
     2. connect it to gitub
     3. add vercel domain to allow origin in sanity
     4. publish result
+![Screenshot 2024-11-05 203121](https://github.com/user-attachments/assets/483d5798-fd33-411e-96f5-b047bb5256f6)
+![Screenshot 2024-11-05 203138](https://github.com/user-attachments/assets/5e50a2e1-95ac-45b0-8aec-ac33cbd40043)
+![Screenshot 2024-11-05 203158](https://github.com/user-attachments/assets/7f9dc252-2c04-4117-b388-1b9c7d7216a3)
+![Screenshot 2024-11-05 203320](https://github.com/user-attachments/assets/ccba9e26-def1-4e80-9f41-8b0d99236305)
+![Screenshot 2024-11-05 203549](https://github.com/user-attachments/assets/c17f85fe-3a3e-4117-ba44-dde7cb77c132)
+![Screenshot 2024-11-05 203602](https://github.com/user-attachments/assets/999c1f69-5e58-4543-ba20-6d0d38f328f0)
+
+
+
+
