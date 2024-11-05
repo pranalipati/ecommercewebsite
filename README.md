@@ -1,6 +1,3 @@
-# Sanity Amazona
-
-## Lessons
 
 1. Introduction
    1. What you will learn
